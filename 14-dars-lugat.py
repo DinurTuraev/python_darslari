@@ -1,6 +1,6 @@
 # 12.09.2021
 # Python dasturlash asoslari
-# 13-dars "Lug'at"
+# 14-dars "Lug'at"
 
 # Otam (onam, akam, ukam, va hokazo) degan lug'at yarating va lug'atga shu inson haqida kamida 3 ta m'alumot kiriting (ismi, tu'gilgan yili, shahri, manzili va hokazo). Lug'atdagi ma'lumotni matn shaklida konsolga chiqaring: Otamning ismi Mavlutdin, 1954-yilda, Samarqand viloyatida tug'ilgan
 
